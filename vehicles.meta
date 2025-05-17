@@ -1,0 +1,45 @@
+<CVehicleModelInfo__InitDataList>
+  <Item>
+    <modelName>bmw_m3</modelName>
+    <txdName>bmw_m3</txdName>
+    <handlingId>BMW_M3</handlingId>
+    <gameName>BMWM3</gameName>
+    <vehicleMakeName>BMW</vehicleMakeName>
+    <expressionDictName>null</expressionDictName>
+    <expressionName>null</expressionName>
+    <animConvDictName>null</animConvDictName>
+    <animConvName>null</animConvName>
+    <animConvRtName>null</animConvRtName>
+    <vehicleClass>SPORT</vehicleClass>
+    <vehicleType>automobile</vehicleType>
+    <wheelType>SPORT</wheelType>
+    <layout>LAYOUT_STANDARD</layout>
+    <driverSeatOffset x="0.000000" y="0.000000" z="0.000000" />
+    <extraIncludes />
+    <maxNumOfPassengers value="1" />
+    <maxNumOfPassengersIncludingDriver value="2" />
+    <availableModKits>
+      <Item>0_default</Item>
+    </availableModKits>
+    <layoutHandlingOverride>NULL</layoutHandlingOverride>
+    <explosionInfo>EXPLOSION_INFO_DEFAULT</explosionInfo>
+    <scenarioLayoutOverride />
+    <allowPretendOccupants value="false" />
+    <boneBankFrontHeight value="0.500000" />
+    <boneBankRearHeight value="0.500000" />
+    <bikeLeanOverride value="0.000000" />
+    <allowJoyriding value="false" />
+    <hasAutoDrive value="false" />
+    <cameraName>DEFAULT</cameraName>
+    <aimCameraName>DEFAULT</aimCameraName>
+    <bonnetCameraName>BONNET_STANDARD</bonnetCameraName>
+    <povCameraName>POV_STANDARD</povCameraName>
+    <FirstPersonDrivebyData>
+      <Item>
+        <position x="0.160000" y="-0.200000" z="0.540000" />
+        <rotation x="0.000000" y="0.000000" z="0.000000" />
+        <cameraName>DEFAULT</cameraName>
+      </Item>
+    </FirstPersonDrivebyData>
+  </Item>
+</CVehicleModelInfo__InitDataList>
